@@ -8,4 +8,7 @@ console.log('z');
 
 console.log('finalizamos');
 
-
+function addCart() {
+  cart = {}
+  return cart;
+}
